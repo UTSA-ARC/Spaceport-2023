@@ -1,0 +1,6 @@
+[submodule "Linda-Avionics-Code"]
+	path = Linda-Avionics-Code
+	url = git@github.com:UTSA-ARC/Linda-Avionics-Code.git
+[submodule "Linda-Avionics-Hardware"]
+	path = Linda-Avionics-Hardware
+	url = git@github.com:UTSA-ARC/Linda-Avionics-Hardware.git
