@@ -6,3 +6,7 @@
 	path = Linda-Avionics-Hardware
 	url = git@github.com:UTSA-ARC/Linda-Avionics-Hardware.git
 	branch = main
+[submodule "Linda-Ground-Support"]
+	path = Linda-Ground-Support
+	url = git@github.com:UTSA-ARC/Linda-Ground-Support.git
+	branch = main
