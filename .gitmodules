@@ -7,3 +7,6 @@
 [submodule "Linda-Ground-Support"]
 	path = Linda-Ground-Support
 	url = git@github.com:UTSA-ARC/Linda-Ground-Support.git
+[submodule "Linda-Ground-Station-PI"]
+	path = Linda-Ground-Station-PI
+	url = git@github.com:UTSA-ARC/Linda-Ground-Station-PI.git
