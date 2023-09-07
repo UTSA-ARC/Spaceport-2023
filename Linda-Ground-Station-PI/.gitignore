@@ -1,0 +1,6 @@
+*.lock
+src/__pycache__
+.venv
+.history
+.config.py.swp
+ABORTED

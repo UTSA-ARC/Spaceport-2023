@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pigpio = "*"
+
+[dev-packages]
+
+[requires]
+
+[scripts]
+picode = "sh /home/$USER/PICode/runner.sh"

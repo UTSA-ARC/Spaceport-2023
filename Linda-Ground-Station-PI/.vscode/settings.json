@@ -1,0 +1,5 @@
+{
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.linting.pylintArgs": ["--generated-members", "from_json,query", "RPi.GPIO.*", "RPi._GPIO.*"]
+}

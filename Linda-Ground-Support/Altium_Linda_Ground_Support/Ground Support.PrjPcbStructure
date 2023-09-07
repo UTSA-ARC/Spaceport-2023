@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=01_Overview.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=02_Power1.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=03_MCU1.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=04_Temperature.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=05_Pressure_and_LoadCell.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=06_Relays_and_SolenoidValves.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=09_Ebox_PhysicalConnections.SchDoc|SheetNumber=7
